@@ -1,4 +1,4 @@
-## Real-Time Anomaly Detection Script: Explanation and Implementation
+## Real-Time Anomaly Detection Script Explanation and Implementation
 
 This script, `anomaly_detection.py`, is a Python program designed to detect anomalies in a continuous data stream, 
 simulating real-time data updates as might occur in financial transactions or sensor data.
