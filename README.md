@@ -5,7 +5,7 @@ This script, `anomaly_detection.py`, is a Python program designed to detect anom
 simulating real-time data updates as might occur in financial transactions or sensor data.
 
 Code Structure and Explanation
-f
+
 1. Importing Libraries
    - **Pandas**: Used to handle the time series data for efficient computation and anomaly detection.
    - **NumPy**: Provides additional numerical operations, though it’s not essential here.
